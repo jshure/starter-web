@@ -12,7 +12,7 @@ More detail here
 ## Deployment
 More info
 ## How to Contribute
-
+1. Push to remote
 
 
 
