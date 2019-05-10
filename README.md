@@ -18,3 +18,5 @@ More info
 4. In Working dir
 
 5 copyright 2019
+
+Adding before merge
