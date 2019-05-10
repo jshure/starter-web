@@ -13,7 +13,7 @@ More detail here
 More info
 ## How to Contribute
 1. Push to remote
-
+2. Commit to local
 
 
 
