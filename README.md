@@ -14,7 +14,7 @@ More info
 ## How to Contribute
 1. Push to remote
 2. Commit to local
-
-
+3. In Staging area
+4. In Working dir
 
 
